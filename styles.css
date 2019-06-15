@@ -1,0 +1,51 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #070707; 
+	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+	}
+p { 
+	margin-top: 0; 
+    text-align: justify; 
+    }
+
+section {
+    background: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+
+/* specific divs */
+.page-wrapper { 
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hGKNLpT7sD2lntiZXzlRQILAcVD1mFLZ3o-8lSGYRyxLw8tkOw) repeat top left; 
+	padding: 0 175px 0 110px;  
+	margin: 0; 
+	position: relative;
+	}
+header {
+	padding-top: 20px;
+    height: 87px;
+    display: block;
+}
+
+footer { 
+	text-align: center; 
+	}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
